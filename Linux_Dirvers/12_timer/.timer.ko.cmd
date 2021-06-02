@@ -1,0 +1,1 @@
+cmd_/home/bruce/share/linux/IMX6ULL/Dirvers/Linux_Dirvers/12_timer/timer.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bruce/share/linux/IMX6ULL/Dirvers/Linux_Dirvers/12_timer/timer.ko /home/bruce/share/linux/IMX6ULL/Dirvers/Linux_Dirvers/12_timer/timer.o /home/bruce/share/linux/IMX6ULL/Dirvers/Linux_Dirvers/12_timer/timer.mod.o
